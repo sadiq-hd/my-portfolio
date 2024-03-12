@@ -1,0 +1,5 @@
+- name: Build and deploy
+  uses: actions/deploy-pages@v4
+  with:
+    # Change the artifact name to a new one here
+    artifact-name: new-my-portfolio-pages
