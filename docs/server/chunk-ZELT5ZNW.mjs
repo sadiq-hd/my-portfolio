@@ -1,0 +1,2 @@
+import './polyfills.server.mjs';
+import{a as e,b as i,c as p,d as n,e as m,l as f,n as s,o as a,r as c,x as d}from"./chunk-I34DQ4NF.mjs";var l=(()=>{let o=class o{constructor(){this.title="my-portfolio"}};o.\u0275fac=function(r){return new(r||o)},o.\u0275cmp=e({type:o,selectors:[["app-root"]],standalone:!0,features:[m],decls:2,vars:0,template:function(r,h){r&1&&(i(0,"h1"),n(1,"this my protfolio"),p())}});let t=o;return t})();var u=[];var v={providers:[d(u),a()]};var x={providers:[c()]},g=f(v,x);var y=()=>s(l,g),q=y;export{q as a};
